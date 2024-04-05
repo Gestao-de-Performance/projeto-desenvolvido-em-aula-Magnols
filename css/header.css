@@ -1,0 +1,17 @@
+@import 'styles.css';
+
+.logo{
+    width: 150px;
+    height: 150px;
+}
+
+.container_header{
+    background-color: var(--purper-300);
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:  0 4%;
+}
